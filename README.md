@@ -1,8 +1,8 @@
 # Roblox-Visit-Bot
 Simple roblox visit bot
 
-Setup:
-Make a alt on [Roblox](https://www.roblox.com/account/signupredir)
+# Setup:
+1) Make a alt on [Roblox](https://www.roblox.com/account/signupredir)\n
 Next Download the latest version of this repo [Here](https://github.com/amprocode/Roblox-Visit-Bot/archive/refs/heads/main.zip)
 Extract the files DONT RENAME ANY OF THE FILES!
 Next go into main.py and go to line 18 and modify it and save
