@@ -3,6 +3,7 @@ Simple roblox visit bot
 
 # Notes:
 You will have to leave your PC afk while running this otherwis it will mess the bot up
+make sure that a cross bar is showing when your in a roblox game if not press F11 screenshot if your stuck on what i mean --> https://prnt.sc/13zl0w9
 
 # Setup:
 1) Make a alt on [Roblox](https://www.roblox.com/account/signupredir)
@@ -10,4 +11,4 @@ You will have to leave your PC afk while running this otherwis it will mess the 
 3) Extract the files DONT RENAME ANY OF THE FILES!
 4) Next go into main.py and go to line 18 and modify it and save
 5) Finally go back onto your alt account and make sure it on the game page that you want botted, just like [this](https://prnt.sc/13zacl8)
-6) Now you are done! Just make sure that a cross bar is showing if not press F11
+6) Now you are done! Run the program and leave your PC afk!
