@@ -2,7 +2,7 @@
 Simple roblox visit bot
 
 # Notes:
-You will have to leave your PC afk while running this otherwis it will mess the bot up
+You will have to leave your PC afk while running this otherwise it will mess the bot up
 make sure that a cross bar is showing when your in a roblox game if not press F11 screenshot if your stuck on what i mean --> https://prnt.sc/13zl0w9
 
 # Setup:
